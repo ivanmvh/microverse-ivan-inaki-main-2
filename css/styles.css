@@ -1,0 +1,18 @@
+:root {
+    --black: #000;
+    --wine: #730d15;
+    --red: #f00;
+    --gray: gray;
+    --gray2: #262626;
+    --white: #fff;
+} 
+
+#navbar {
+  position: fixed;  
+}
+
+@media (max-width: 600px) {
+  .facet_sidebar {
+    display: none;
+  }
+}
