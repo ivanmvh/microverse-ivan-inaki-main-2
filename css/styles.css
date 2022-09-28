@@ -1,14 +1,14 @@
 :root {
-    --black: #000;
-    --wine: #730d15;
-    --red: #f00;
-    --gray: gray;
-    --gray2: #262626;
-    --white: #fff;
-} 
+  --black: #000;
+  --wine: #730d15;
+  --red: #f00;
+  --gray: gray;
+  --gray2: #262626;
+  --white: #fff;
+}
 
 #navbar {
-  position: fixed;  
+  position: fixed;
 }
 
 @media (max-width: 600px) {
